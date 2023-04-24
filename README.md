@@ -2,7 +2,7 @@
 <h3 align="center">A student and a developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Kiyou<br><br>🌱 I’m currently learning 3D Modelling, Icon Designing<br><br>👯 I’m looking to collaborate on Kiyou<br><br>📫 How to reach me editortheweeb@gmail.com<br><br>⚡ Fun fact: I'm funny.
+🔭 I’m currently working on [Kiyou](https://github.com/HirooK1/Kiyou)<br><br>🌱 I’m currently learning 3D Modelling, Icon Designing<br><br>👯 I’m looking to collaborate on [Kiyou](https://github.com/HirooK1/Kiyou)<br><br>📫 How to reach me editortheweeb@gmail.com<br><br>⚡ Fun fact: I'm funny.
 
 
 ## 🌐 Socials:
